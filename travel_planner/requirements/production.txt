@@ -1,0 +1,6 @@
+-r base.txt
+sentry-sdk==1.40.5
+django-storages==1.14.2
+boto3==1.34.56
+django-redis==5.4.0
+django-prometheus==2.3.1
