@@ -1,0 +1,36 @@
+{
+    "delay_between_actions": 0.5,
+    "actions": [
+      {
+        "type": "find_and_click",
+        "image": "button1.png",
+        "confidence": 0.8,
+        "timeout": 10
+      },
+      {
+        "type": "type",
+        "value": "Hello, World!"
+      },
+      {
+        "type": "press",
+        "value": "enter"
+      },
+      {
+        "type": "wait",
+        "value": 2
+      },
+      {
+        "type": "find_and_click",
+        "image": "button2.png",
+        "confidence": 0.9,
+        "timeout": 15
+      },
+      {
+        "type": "click"
+      },
+      {
+        "type": "custom_action",
+        "value": "This is a custom action"
+      }
+    ]
+  }
