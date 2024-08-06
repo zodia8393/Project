@@ -16,7 +16,7 @@ Data Processor는 다양한 소스에서 데이터를 수집, 정제, 처리하�
 ## 설치
 
 1. 이 저장소를 클론합니다: 
-git clone https://github.com/yourusername/data_processor.git
+git clone https://github.com/zodia8393/data_processor.git
 cd data_processor
 
 2. 가상 환경을 생성하고 활성화합니다:
